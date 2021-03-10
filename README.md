@@ -10,7 +10,7 @@ In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement 
 
 het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracht 1 en 2. Vanaf week 2 werken we aan de eindopdracht.
 
-### Opdracht 1 🛹 NPM install Progressive- enhancement
+### Opdracht 1 🛹 NPM install Progressive- enhancement ✔
 
 Voor de eerste opdracht gaan we onderzoeken wat Progressive Enhancement is.
 
