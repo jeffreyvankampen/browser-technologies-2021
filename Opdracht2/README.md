@@ -71,6 +71,6 @@ It all comes down to browser support. If you can go IE 9+ / Android 3+, inline S
 
 #### Bronnen
 
-https://css-tricks.com/icon-fonts-vs-svg/
-https://css-tricks.com/snippets/css/using-font-face/
-https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+- https://css-tricks.com/icon-fonts-vs-svg/
+- https://css-tricks.com/snippets/css/using-font-face/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
