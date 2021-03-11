@@ -17,7 +17,6 @@ De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek e
 
 ### Custom fonts
 
-
 Icons are Vector
 There are big advantages to vector icons: resizable up and down without losing quality, extra sharp on retina displays, and small file size among them.
 
@@ -28,8 +27,9 @@ In a recent personal example, while converting some icons from fonts to SVG on C
 Winner
 It all comes down to browser support. If you can go IE 9+ / Android 3+, inline SVG is better at pretty much everything than icon fonts. If you need the deeper browser support, I feel like an inline SVG fallback would be too big of a pain to be worth it (maintaining a PNG copy, inserting an additional element to display PNG version, hiding SVG element… it’s weighty).
 
+## Browser compatibility
 
-
+![Schermafbeelding 2021-03-11 205017](https://user-images.githubusercontent.com/48793364/110845972-84904d00-82ab-11eb-84f9-81121d00fead.png)
 
 
 ## Criteria
