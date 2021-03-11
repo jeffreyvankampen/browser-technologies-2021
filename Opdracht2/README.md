@@ -12,10 +12,28 @@ De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek e
 
 * Custom fonts 
 * Kleur
+* 
+## Onderzoek
+
+Custom fonts
+
+
+Icons are Vector
+There are big advantages to vector icons: resizable up and down without losing quality, extra sharp on retina displays, and small file size among them.
+
+Icon Font	Inline SVG
+Browsers consider it text, so the icons are anti-aliased as such. Can lead to icons not being as sharp as you might expect.	Straight up vector
+In a recent personal example, while converting some icons from fonts to SVG on CodePen, some of the font icons were noticeably less sharp.
+
+Winner
+It all comes down to browser support. If you can go IE 9+ / Android 3+, inline SVG is better at pretty much everything than icon fonts. If you need the deeper browser support, I feel like an inline SVG fallback would be too big of a pain to be worth it (maintaining a PNG copy, inserting an additional element to display PNG version, hiding SVG element… it’s weighty).
+
+
+
 
 
 ## Criteria
-- Onderzoek minimaal 2 features YES
+- Onderzoek minimaal 2 features 
 - Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
 - Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
 - Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
@@ -37,13 +55,6 @@ De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek e
 ###### Oplossing
 
 
-#### Website 3 Flevoziekenhuis Beginner
-
-###### Impact
-
-###### Oplossing
-
-
 #### Website 4 Useable Design Beginner
 
 ###### Impact
@@ -56,3 +67,10 @@ De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek e
 ###### Impact
 
 ###### Oplossing
+
+
+#### Bronnen
+
+https://css-tricks.com/icon-fonts-vs-svg/
+https://css-tricks.com/snippets/css/using-font-face/
+https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
