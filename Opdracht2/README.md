@@ -10,8 +10,8 @@ Het doel van deze opdracht is om erachter komen hoe ik aannames hebt die niet kl
 ## Features
 De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek een aantal high end websites en een aantal beginners websites waarbij ik documenteer wat de impact is van kleur en custom fonts. Blijft het dan een bruikbare website of verandert de totale interface drastisch? Daarnaast ben ik benieuwd wat de impact is van mijn eigen website. 
 
-* Custom fonts uitzetten
-* Kleur uitzetten & kleurenblindheid instellen
+* Custom fonts 
+* Kleur
 
 
 ## Criteria
