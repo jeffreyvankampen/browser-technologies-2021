@@ -23,16 +23,16 @@ De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek e
 - Neem je bevindingen en voorbeelden mee naar de les, de resultaten bespreken we in clubjes.
 
 
-## Website 1 Apple High-end
+#### Website 1 Apple High-end
 
-# Impact
+###### Impact
 
-## Website 2 Amazon High-end
+#### Website 2 Amazon High-end
 
-## Website 3 Flevoziekenhuis Beginner
+#### Website 3 Flevoziekenhuis Beginner
 
-## Website 4 Useable Design Beginner
+#### Website 4 Useable Design Beginner
 
-## Website 5 Portfolio Beginner
+#### Website 5 Portfolio Beginner
 
 
