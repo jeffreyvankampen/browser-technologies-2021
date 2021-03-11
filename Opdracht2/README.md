@@ -27,6 +27,15 @@ In a recent personal example, while converting some icons from fonts to SVG on C
 Winner
 It all comes down to browser support. If you can go IE 9+ / Android 3+, inline SVG is better at pretty much everything than icon fonts. If you need the deeper browser support, I feel like an inline SVG fallback would be too big of a pain to be worth it (maintaining a PNG copy, inserting an additional element to display PNG version, hiding SVG element… it’s weighty).
 
+TTF: TrueType Fonts, that were originally developed by Apple
+OFT: OpenType Fonts, a relatively newer font that has been based on the TrueType standard
+Original TTF	298kb	100%
+WOFF	126kb	42%
+WOFF2	77kb	25%
+
+* Het type font verandert de performance van je website
+* Het type vectoren of iconen kan het kwa resolutie anders weergeven, vectoren- of anti-alias
+
 ### Browser compatibility
 
 ![Schermafbeelding 2021-03-11 205017](https://user-images.githubusercontent.com/48793364/110845972-84904d00-82ab-11eb-84f9-81121d00fead.png)
