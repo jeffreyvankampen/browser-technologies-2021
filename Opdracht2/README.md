@@ -12,7 +12,7 @@ De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek e
 
 * Custom fonts 
 * Kleur
-* 
+
 ## Onderzoek
 
 ### Custom fonts
