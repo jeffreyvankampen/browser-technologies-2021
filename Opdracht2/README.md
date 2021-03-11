@@ -7,17 +7,14 @@ Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features
 ## Doel 
 Het doel van deze opdracht is om erachter komen hoe ik aannames hebt die niet kloppen, of bevestigen door mij in te leven in de functionaliteit van deze features.
 
-## Uitleg
+## Features
+De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek een aantal high end websites en een aantal beginners websites waarbij ik documenteer wat de impact is van kleur en custom fonts. Blijft het dan een bruikbare website of verandert de totale interface drastisch? Daarnaast ben ik benieuwd wat de impact is van mijn eigen website. 
 
-
-Features
 * Custom fonts uitzetten
 * Kleur uitzetten & kleurenblindheid instellen
 
-De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek een aantal high end websites en een aantal beginners websites waarbij ik documenteer wat de impact is van kleur en custom fonts. Blijft het dan een bruikbare website of verandert de totale interface drastisch? Daarnaast ben ik benieuwd wat de impact is van mijn eigen website. 
 
-
-* Criteria
+## Criteria
 - Onderzoek minimaal 2 features YES
 - Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
 - Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
