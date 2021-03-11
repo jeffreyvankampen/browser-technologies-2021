@@ -4,21 +4,25 @@ Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features
 
 - [Opdracht 2 - Breek het Web](course/Opdracht2.md)\
 
-## Doel van deze opdracht
-Het doel van deze opdracht is om erachter komen dat je misschien aannames hebt die niet kloppen, en om je in te laten leven in de eindgebruiker.
+## Doel 
+Het doel van deze opdracht is om erachter komen hoe ik aannames hebt die niet kloppen, of bevestigen door mij in te leven in de functionaliteit van deze features.
 
 ## Uitleg
-Onderzoek minimaal twee features. Dat betekent uitvogelen wat het voor impact heeft op de sites die je kent en normaal gebruikt. Zoek uit hoe je de feature kan testen. Kies sites in je directe omgeving: van je werkgever, lokale vereniging, de cafetaria om de hoek, en/of eerdere projecten die je zelf gedaan hebt. Onderzoek de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen.
+
 
 Features
 * Custom fonts uitzetten
 * Kleur uitzetten & kleurenblindheid instellen
 
+De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek een aantal high end websites en een aantal beginners websites waarbij ik documenteer wat de impact is van kleur en custom fonts. Blijft het dan een bruikbare website of verandert de totale interface drastisch? Daarnaast ben ik benieuwd wat de impact is van mijn eigen website. 
+
 
 * Criteria
-Onderzoek minimaal 2 features YES
-Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
-Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
-Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
-Beschrijf hoe je dit kan fiksen
-Neem je bevindingen en voorbeelden mee naar de les, de resultaten bespreken we in clubjes.
+- Onderzoek minimaal 2 features YES
+- Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
+- Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
+- Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
+- Beschrijf hoe je dit kan fiksen
+- Neem je bevindingen en voorbeelden mee naar de les, de resultaten bespreken we in clubjes.
+
+
