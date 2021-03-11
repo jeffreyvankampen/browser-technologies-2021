@@ -11,6 +11,7 @@ figures.forEach(figure => {
 // closest 
 // stopPropagation 
 // => een callback function
+
 const getSiblings = (e) => {
     let siblings = [];
   
@@ -29,6 +30,9 @@ const getSiblings = (e) => {
     return siblings;
   };
 
+
+
+ 
   // variabelen aanmaken van de figures 
   // verberg de kaarten (soort toggle door .hidden)
   // classList om een array te koppelen
