@@ -15,7 +15,7 @@ De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek e
 * 
 ## Onderzoek
 
-Custom fonts
+### Custom fonts
 
 
 Icons are Vector
