@@ -5,7 +5,7 @@ Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features
 - [Opdracht 2 - Breek het Web](course/Opdracht2.md)\
 
 ## Doel 
-Het doel van deze opdracht is om erachter komen hoe ik aannames hebt die niet kloppen, of bevestigen door mij in te leven in de functionaliteit van deze features.
+Het doel van deze opdracht is om erachter komen wat voor aannames er zijn die wel of niet kloppen, dit wil ik bevestigen door mij in te leven in de functionaliteit van deze features.
 
 ## Features
 De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek een aantal high end websites en een aantal beginners websites waarbij ik documenteer wat de impact is van kleur en custom fonts. Blijft het dan een bruikbare website of verandert de totale interface drastisch? Daarnaast ben ik benieuwd wat de impact is van mijn eigen website. 
