@@ -27,12 +27,32 @@ De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek e
 
 ###### Impact
 
+###### Oplossing
+
+
 #### Website 2 Amazon High-end
+
+###### Impact
+
+###### Oplossing
+
 
 #### Website 3 Flevoziekenhuis Beginner
 
+###### Impact
+
+###### Oplossing
+
+
 #### Website 4 Useable Design Beginner
+
+###### Impact
+
+###### Oplossing
+
 
 #### Website 5 Portfolio Beginner
 
+###### Impact
 
+###### Oplossing
