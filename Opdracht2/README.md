@@ -41,6 +41,20 @@ WOFF2	77kb	25%
 ![Schermafbeelding 2021-03-11 205017](https://user-images.githubusercontent.com/48793364/110845972-84904d00-82ab-11eb-84f9-81121d00fead.png)
 
 
+## Fonts in websites
+
+<img width="1389" alt="Schermafbeelding 2021-03-12 om 11 09 58" src="https://user-images.githubusercontent.com/48793364/110925458-81d13e80-8323-11eb-8885-eae5ac636049.png">
+<img width="1389" alt="Schermafbeelding 2021-03-12 om 11 09 58" src="https://user-images.githubusercontent.com/48793364/110925532-9b728600-8323-11eb-985f-4d584e69878f.png">
+
+
+## Importeren
+
+![Schermafbeelding 2021-03-11 204531 (1)](https://user-images.githubusercontent.com/48793364/110925484-8bf33d00-8323-11eb-8ba0-6b5372d607d4.png)
+
+![Schermafbeelding 2021-03-11 204531](https://user-images.githubusercontent.com/48793364/110925488-8c8bd380-8323-11eb-8741-7c878b8dca63.png)
+![Schermafbeelding 2021-03-11 204551](https://user-images.githubusercontent.com/48793364/110925490-8c8bd380-8323-11eb-85e6-1d00a3226755.png)
+![Schermafbeelding 2021-03-11 204603](https://user-images.githubusercontent.com/48793364/110925492-8d246a00-8323-11eb-9cce-c83720c9eb9d.png)
+
 ## Criteria
 - Onderzoek minimaal 2 features 
 - Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
