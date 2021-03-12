@@ -50,6 +50,9 @@ WOFF2	77kb	25%
 
 ### Kleur 
 
+![1_6hiO8fgQ6v9ols146pk9GQ](https://user-images.githubusercontent.com/48793364/110930206-1d18e280-8329-11eb-8c8c-ec24eb434c6a.png)
+
+
 ## Colorblind types
 
 <img width="286" alt="Schermafbeelding 2021-03-12 om 11 23 40" src="https://user-images.githubusercontent.com/48793364/110927279-ba721780-8325-11eb-9eb0-b515e7016ce8.png">
@@ -96,6 +99,7 @@ WOFF2	77kb	25%
 * Text Overlaid On Background Images?
 * Link Recognition. ...
 * Test
+* Contrast or patterns
 * Form Placeholders.
 
 ![animation](https://user-images.githubusercontent.com/48793364/110930032-ea6eea00-8328-11eb-9408-0e3854aae4fa.gif)
