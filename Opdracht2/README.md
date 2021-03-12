@@ -1,10 +1,10 @@
-## Uitleg
+### Uitleg
 
 Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? En hoe ziet een website er uit met een screenreader?
 
 - [Opdracht 2 - Breek het Web](course/Opdracht2.md)\
 
-## Doel 
+### Doel 
 Het doel van deze opdracht is om erachter komen wat voor aannames er zijn die wel of niet kloppen, dit wil ik bevestigen door mij in te leven in de functionaliteit van deze features.
 
 ## Features
@@ -13,9 +13,9 @@ De features die ik gekozen heb zijn custom fonts. En de feature kleur. Ik zoek e
 * Custom fonts 
 * Kleur
 
-## Onderzoek
+### Onderzoek
 
-### Custom fonts
+## Custom fonts
 
 Icons are Vector
 There are big advantages to vector icons: resizable up and down without losing quality, extra sharp on retina displays, and small file size among them.
