@@ -101,6 +101,7 @@ WOFF2	77kb	25%
 * Test
 * Contrast or patterns
 * Form Placeholders.
+* Avoid specific color combinations
 
 ![animation](https://user-images.githubusercontent.com/48793364/110930032-ea6eea00-8328-11eb-9408-0e3854aae4fa.gif)
 
