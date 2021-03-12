@@ -91,11 +91,15 @@ WOFF2	77kb	25%
 
 ### Oplossing
 
-* Emphasize
+* Emphasize, background, border
 * Text Readability. ...
-* Text Overlaid On Background Images. ...
+* Text Overlaid On Background Images?
 * Link Recognition. ...
+* Test
 * Form Placeholders.
+
+![animation](https://user-images.githubusercontent.com/48793364/110930032-ea6eea00-8328-11eb-9408-0e3854aae4fa.gif)
+
 * Use non-web fonts
 * Use system fonts
 * Use inheriting different/system fonts
