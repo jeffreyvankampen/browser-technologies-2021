@@ -56,32 +56,32 @@ WOFF2	77kb	25%
 - Neem je bevindingen en voorbeelden mee naar de les, de resultaten bespreken we in clubjes.
 
 
-#### Website 1 Apple High-end
+#### Website 1 TransferWise High-end
 
 ###### Impact
 
-###### Oplossing
-
+<img width="1680" alt="Schermafbeelding 2021-03-12 om 11 19 14" src="https://user-images.githubusercontent.com/48793364/110926773-19835c80-8325-11eb-948e-a8976bb90670.png">
 
 #### Website 2 Amazon High-end
 
 ###### Impact
 
-###### Oplossing
+<img width="1680" alt="Schermafbeelding 2021-03-12 om 11 20 02" src="https://user-images.githubusercontent.com/48793364/110926739-0ec8c780-8325-11eb-989a-86d71770afea.png">
 
 
 #### Website 4 Useable Design Beginner
 
 ###### Impact
 
-###### Oplossing
+<img width="1671" alt="Schermafbeelding 2021-03-12 om 11 18 13" src="https://user-images.githubusercontent.com/48793364/110926711-07a1b980-8325-11eb-8e74-ab4f78ef7dde.png">
 
 
 #### Website 5 Portfolio Beginner
 
 ###### Impact
 
-###### Oplossing
+<img width="1680" alt="Schermafbeelding 2021-03-12 om 11 20 44" src="https://user-images.githubusercontent.com/48793364/110926698-040e3280-8325-11eb-8ae6-c79d15a60f5e.png">
+
 
 
 #### Bronnen
