@@ -47,13 +47,14 @@ WOFF2	77kb	25%
 ![Schermafbeelding 2021-03-11 204551](https://user-images.githubusercontent.com/48793364/110925490-8c8bd380-8323-11eb-85e6-1d00a3226755.png)
 ![Schermafbeelding 2021-03-11 204603](https://user-images.githubusercontent.com/48793364/110925492-8d246a00-8323-11eb-9cce-c83720c9eb9d.png)
 
-## Criteria
-- Onderzoek minimaal 2 features 
-- Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
-- Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
-- Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
-- Beschrijf hoe je dit kan fiksen
-- Neem je bevindingen en voorbeelden mee naar de les, de resultaten bespreken we in clubjes.
+
+### Kleur 
+
+## Colorblind types
+
+<img width="286" alt="Schermafbeelding 2021-03-12 om 11 23 40" src="https://user-images.githubusercontent.com/48793364/110927279-ba721780-8325-11eb-9eb0-b515e7016ce8.png">
+
+<img width="1679" alt="Schermafbeelding 2021-03-12 om 11 25 12" src="https://user-images.githubusercontent.com/48793364/110927287-bd6d0800-8325-11eb-88c7-d92b7d18bbbf.png">
 
 
 #### Website 1 TransferWise High-end
