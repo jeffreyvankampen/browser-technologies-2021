@@ -44,7 +44,7 @@ WOFF2	77kb	25%
 ## Fonts in websites
 
 <img width="1389" alt="Schermafbeelding 2021-03-12 om 11 09 58" src="https://user-images.githubusercontent.com/48793364/110925458-81d13e80-8323-11eb-8885-eae5ac636049.png">
-<img width="1389" alt="Schermafbeelding 2021-03-12 om 11 09 58" src="https://user-images.githubusercontent.com/48793364/110925532-9b728600-8323-11eb-985f-4d584e69878f.png">
+<img width="1639" alt="Schermafbeelding 2021-03-12 om 11 11 41" src="https://user-images.githubusercontent.com/48793364/110925634-be049f00-8323-11eb-9c44-2fe2ef66d4b0.png">
 
 
 ## Importeren
