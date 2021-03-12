@@ -113,6 +113,8 @@ WOFF2	77kb	25%
 
 <img width="747" alt="Schermafbeelding 2021-03-12 om 11 40 53" src="https://user-images.githubusercontent.com/48793364/110929372-2d7c8d80-8328-11eb-8c6a-8ba7c268da6d.png">
 
+<img width="901" alt="Schermafbeelding 2021-03-12 om 11 52 14" src="https://user-images.githubusercontent.com/48793364/110930608-9adcee00-8329-11eb-8006-2307e3785a41.png">
+
 
 #### Bronnen
 
