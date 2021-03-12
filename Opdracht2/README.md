@@ -89,6 +89,13 @@ WOFF2	77kb	25%
 
 <img width="1370" alt="Schermafbeelding 2021-03-12 om 11 21 56" src="https://user-images.githubusercontent.com/48793364/110926878-3881ee80-8325-11eb-83c6-43d9e593d564.png">
 
+### Oplossing
+
+* Emphasize
+* Text Readability. ...
+* Text Overlaid On Background Images. ...
+* Link Recognition. ...
+* Form Placeholders.
 
 #### Bronnen
 
