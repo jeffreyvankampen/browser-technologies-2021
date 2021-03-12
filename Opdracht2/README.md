@@ -50,8 +50,6 @@ WOFF2	77kb	25%
 ## Importeren
 
 ![Schermafbeelding 2021-03-11 204531 (1)](https://user-images.githubusercontent.com/48793364/110925484-8bf33d00-8323-11eb-8ba0-6b5372d607d4.png)
-
-![Schermafbeelding 2021-03-11 204531](https://user-images.githubusercontent.com/48793364/110925488-8c8bd380-8323-11eb-8741-7c878b8dca63.png)
 ![Schermafbeelding 2021-03-11 204551](https://user-images.githubusercontent.com/48793364/110925490-8c8bd380-8323-11eb-85e6-1d00a3226755.png)
 ![Schermafbeelding 2021-03-11 204603](https://user-images.githubusercontent.com/48793364/110925492-8d246a00-8323-11eb-9cce-c83720c9eb9d.png)
 
