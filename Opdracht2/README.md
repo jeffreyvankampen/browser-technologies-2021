@@ -96,6 +96,9 @@ WOFF2	77kb	25%
 * Text Overlaid On Background Images. ...
 * Link Recognition. ...
 * Form Placeholders.
+* Use non-web fonts
+* Use system fonts
+* Use inheriting different/system fonts
 
 #### Bronnen
 
