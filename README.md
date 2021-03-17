@@ -1,7 +1,8 @@
 # Eindopdracht - Online Foto album - Plan
 
 Ik wil een serie foto's van mijn vakantie kunnen bekijken, ik wil nieuwe foto's aan de serie kunnen toevoegen en een selectie in een carrousel kunnen bekijken.
-Vereisten
+
+## Vereisten
 •	Foto toevoegen aan een verzameling met meta-info zoals beschrijving, locatie, fotograaf, alt-tekst
 •	Detailpagina foto
 •	Overzichtspagina alle foto's
@@ -9,6 +10,7 @@ Vereisten
 •	Overzichtspagina van een serie
 •	Serie als carrousel aanbieden
 •	Serie als slideshow aanbieden
+
 ## Optioneel
 •	Delen
 •	Gebruik maken van iconen zonder alleen fontawesome, in ieder geval inherit van het script:
@@ -20,9 +22,8 @@ Vereisten
 •	Annuleer icon
 •	Volgorde icon
 •	Carousel of slidehow optie
-    •	Verbetering toevoegen voor slechtzienden, voorstelling voor blinden
-    •	Selectie maken 
-
+•	Verbetering toevoegen voor slechtzienden, voorstelling voor blinden
+•	Selectie maken 
 
 ## Features
 1. Custom fonts vervangen door inherited script
@@ -31,7 +32,7 @@ Vereisten
 
 ## Vragen
 •	API? Unsplash 
-Hoever werkend. Afbeeldingen genereren of inbeelden door vooringevulde afbeeldingen?
+•   Hoever werkend. Afbeeldingen genereren of inbeelden door vooringevulde afbeeldingen?
 
 ## Criteria
 Een lijst met vier browsers waarin je hebt getest en een testverslag:
