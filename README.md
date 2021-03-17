@@ -13,13 +13,13 @@ Vereisten
 •	Delen
 •	Gebruik maken van iconen zonder alleen fontawesome, in ieder geval inherit van het script:
 •	Upload icoon
-    Social media iconen
-    User icoon
-    Home icon
-    Selection icon
-    Annuleer icon
-    Volgorde icon
-    Carousel of slidehow optie
+•	Social media iconen
+•	User icoon
+•	Home icon
+•	Selection icon
+•	Annuleer icon
+•	Volgorde icon
+•	Carousel of slidehow optie
     •	Verbetering toevoegen voor slechtzienden, voorstelling voor blinden
     •	Selectie maken 
 
