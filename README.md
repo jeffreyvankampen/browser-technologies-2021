@@ -13,7 +13,7 @@ Ik wil een serie foto's van mijn vakantie kunnen bekijken, ik wil nieuwe foto's 
 
 ## Optioneel
 
-•	Delen
+-	Delen
 •	Gebruik maken van iconen zonder alleen fontawesome, in ieder geval inherit van het script:
 •	Upload icoon
 •	Social media iconen
