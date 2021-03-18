@@ -30,6 +30,8 @@ Ik wil een serie foto's van mijn vakantie kunnen bekijken, ik wil nieuwe foto's 
 2. Afbeeldingen kunnen vervangen door soundexperience
 3. Slecht internet, of navigeren vereenvoudigen en opslagruimte extreem verkleinen
 
+![FOTO](https://user-images.githubusercontent.com/48793364/111652652-886e2300-8807-11eb-9b50-b5985f171482.jpg)
+
 ## Vragen
 •	API? Unsplash 
 •   Hoever werkend. Afbeeldingen genereren of inbeelden door vooringevulde afbeeldingen?
