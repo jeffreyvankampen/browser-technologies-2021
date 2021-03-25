@@ -1,15 +1,37 @@
 const dragElementen = document.querySelector("#dragElement");
+const img =  document.querySelector('img')
 
 dragElementen.addEventListener("dragstart", e => {
   e.dataTransfer.setData("text/plain", dragElementen.id);
 });
 
-for (const dropZone of document.querySelector(".drop-zone")) {
+const dropZones = document.querySelectorAll(".drop-zone")
+
+for (const dropZone of dropZones) {
   dropZone.addEventListener("dragover", e => {
     e.preventDefault();
     dropZone.classList.add("drop-zone--over");
   });
 }
+
+// const dragElementen = document.getElementById("dragElement");  
+// const img =  document.querySelector('img')
+// img.addEventListener("dragstart", e => {
+//   e.dataTransfer.setData("text/plain", e.target.img);
+// });
+// const dropZones = document.querySelectorAll(".drop-zone");
+// for (const dropZone of dropZones) {
+//   dropZone.addEventListener("dragover", e => {
+//     e.preventDefault();
+//     dropZone.classList.add("drop-zone--over");
+//   });
+// }
+
+
+
+
+
+
 
 //event.target
 // variabelen aanmaken van de figures 

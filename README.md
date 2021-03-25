@@ -1,3 +1,13 @@
+## Enhancements
+
+- Ik wil een drag en drop feature implementeren die een handicap dekt zoals geen muis of motorisch gezien door hiernaast te kunnen tabben
+- Ik wil mijn website optimaliseren door correcte HTML en afbeeldingen smaller maken/opslaan in de server (performance)
+- Door de website heen kunnen navigeren door tabs
+- Inherit/overerven toepassen, als er geen javascript is (wat dan) met placeholders, geen gebruik maken van scripts inladen door puur buttons te gebruiken zoals uploaden en labels te gebruiken
+- Jouw progressie op kunnen slaan met cookies, drag/drop sorteren kunnen onthouden voor later
+- Eenvoudige usability door in een loop de applicatie te gebruiken, goede UX door het natuurlijk te maken, bijvoorbeeld het vermijden van, niet rechts te klikken, of drop-downs of in een bepaalde modus te zitten om aanpassingen te maken (editen/verwijderen)
+
+
 # Eindopdracht - Online Foto album - Plan
 
 Ik wil een serie foto's van mijn vakantie kunnen bekijken, ik wil nieuwe foto's aan de serie kunnen toevoegen en een selectie in een carrousel kunnen bekijken.
